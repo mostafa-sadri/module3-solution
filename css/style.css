@@ -1,0 +1,25 @@
+    *{
+        box-sizing: border-box;
+    }
+    
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    section{
+       border: solid black 1px;
+        background-color: gray;
+         margin: 5px;
+    }
+    h5{
+      color: black;
+      font-weight: bold;
+    }
+    p{
+        margin: 5px;
+        height: auto;
+    }
+    .paragraph{
+        clear: right;
+    }
+    
+    
